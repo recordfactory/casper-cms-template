@@ -12,19 +12,19 @@ canonifyurls = true
 [params]
   description = "this is my description"
   cover = "images/cover.jpg"
-  author = "Valère JEANTET"
+  author = "shmockotronic"
   authorlocation = "Paris, France"
   authorwebsite = "http://vjeantet.fr"
   bio= "my bio"
   logo = "images/logo.png"
-  googleAnalyticsUserID = "UA-79101-12"
+  googleAnalyticsUserID = ""
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = "http://feeds.feedburner.com/..."
-  githubName = "vjeantet"
-  twitterName = "vjeantet"
+  githubName = "recordfactory"
+  twitterName = "film_musik"
   # facebookName = ""
   # linkedinName = ""
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
   hideHUGOSupport = false
   [params.social]
-    twitter = "your_twitter"
+    twitter = "film_musik"
