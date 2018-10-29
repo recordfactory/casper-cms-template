@@ -10,7 +10,7 @@ paginate = 10
 canonifyurls = true
 
 [params]
-  description = "die unglaublichen reisen eines kleinen segelbootes"
+  description = "Die wunderbaren Reisen eines kleinen Segelbootes"
   cover = "images/cover.jpg"
   author = "shmockotronic"
   authorlocation = "Hamburg, Germany"
