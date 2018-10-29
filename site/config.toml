@@ -28,6 +28,7 @@ canonifyurls = true
   hideHUGOSupport = false
   [params.social]
     twitter = "film_musik"
+
 [[menu.main]]
   name = "My Blog"
   weight = -120
@@ -35,7 +36,12 @@ canonifyurls = true
   url = "/"
 
 [[menu.main]]
-  name = "About me"
+  name = "Über mich"
   weight = -110
   identifier = "about"
   url = "/about"
+[[menu.main]]
+  name = "Das Boot"
+  weight = -110
+  identifier = "boot"
+  url = "/boot"
